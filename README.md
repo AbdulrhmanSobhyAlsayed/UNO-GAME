@@ -7,4 +7,6 @@ This is a simple UNO game that applies the universal UNO game roles.<br> In this
 Javafx 8.0.171-b11
 
 # project Images
-<img src="images/UNO1.jpeg" >
+<img src="images/UNO1.jpeg" width="100px" height="100px"><br>
+<img src="images/UNO2.jpeg" width="100px" height="100px"><br>
+<img src="images/UNO3.jpeg" width="100px" height="100px">
