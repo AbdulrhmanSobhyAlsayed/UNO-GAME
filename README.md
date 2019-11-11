@@ -1,2 +1,3 @@
 # UNO-GAME
-UNO game that applies the universal UNO game roles created using Javafx
+this is a simple UNO game that applies the univarsal UNO game roles.
+in this game there is just one player that plaies with the computers. 
